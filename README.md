@@ -1,2 +1,2 @@
 # resume
-My latest Resume
+My latest Resume hosted at cv.badawy.dev
